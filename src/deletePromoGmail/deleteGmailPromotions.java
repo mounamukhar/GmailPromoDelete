@@ -10,13 +10,12 @@ public class deleteGmailPromotions {
 //		WebDriver driver=new ChromeDriver();
 //		 
 //
-//		driver.get("http://www.facebook.com");
+//		driver.get("http://www.facebook.com");s
 //		 
 //		// Maximize browser
 //		 
 //		driver.manage().window().maximize();
 		
-		//Another comments
 		
 
 	}
