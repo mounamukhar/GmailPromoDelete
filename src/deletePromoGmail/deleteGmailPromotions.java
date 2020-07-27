@@ -11,6 +11,8 @@ public class deleteGmailPromotions {
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/mounamukhargoswami/Coding/Workspace/deletePromoGmailchromedriver.exe");
 		WebDriver driver=new ChromeDriver();
+		
+		inted error
 
 		driver.get("http://www.facebook.com");
 		 
